@@ -1,0 +1,18 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Activity 1",
+            "type": "shell",
+            "command": "New-Item -ItemType Directory -Force target\\classes | Out-Null; javac -d target\\classes src\\main\\java\\com\\gdb\\activity1\\Account.java src\\main\\java\\com\\gdb\\activity1\\TestAccount.java; java -cp target\\classes com.gdb.activity1.TestAccount",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": "$javac",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

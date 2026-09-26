@@ -1,0 +1,110 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Activity 1 - TestAccount",
+            "request": "launch",
+            "mainClass": "com.gdb.activity1.TestAccount",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 8 - TestAccountSubclasses",
+            "request": "launch",
+            "mainClass": "com.gdb.activity8.TestAccountSubclasses",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 9 - TestActivity9",
+            "request": "launch",
+            "mainClass": "com.gdb.activity9.TestActivity9",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 10 - TestAbstractAccount",
+            "request": "launch",
+            "mainClass": "com.gdb.activity10.TestActivity10",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Banking Console App",
+            "request": "launch",
+            "mainClass": "com.gdb.tests.BankingConsoleApp",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 11 and 12 - TestInterfaceFactory",
+            "request": "launch",
+            "mainClass": "com.gdb.tests.TestInterfaceFactory",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run All Activities 1-12",
+            "request": "launch",
+            "mainClass": "com.gdb.tests.TestAllActivities",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 2 - TestActivity2",
+            "request": "launch",
+            "mainClass": "com.gdb.activity2.TestActivity2",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 3 - TestActivity3",
+            "request": "launch",
+            "mainClass": "com.gdb.activity3.TestActivity3",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 4 - TestActivity4",
+            "request": "launch",
+            "mainClass": "com.gdb.activity4.TestActivity4",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 5 - TestActivity5",
+            "request": "launch",
+            "mainClass": "com.gdb.activity5.TestActivity5",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 6 - TestActivity6",
+            "request": "launch",
+            "mainClass": "com.gdb.activity6.TestActivity6",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 7 - TestActivity7",
+            "request": "launch",
+            "mainClass": "com.gdb.activity7.TestActivity7",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 11 - TestActivity11",
+            "request": "launch",
+            "mainClass": "com.gdb.activity11.TestActivity11",
+            "projectName": "account-management-activities"
+        },
+        {
+            "type": "java",
+            "name": "Run Activity 12 - TestActivity12",
+            "request": "launch",
+            "mainClass": "com.gdb.activity12.TestActivity12",
+            "projectName": "account-management-activities"
+        }
+    ]
+}
