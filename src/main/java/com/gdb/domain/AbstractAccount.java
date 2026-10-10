@@ -5,7 +5,7 @@ import com.gdb.exceptions.InactiveAccountException;
 import com.gdb.exceptions.InvalidAmountException;
 import com.gdb.exceptions.InvalidPinException;
 
-public abstract class AbstractAccount implements IAccount {
+public abstract class AbstractAccount implements IAccount, java.io.Serializable {
     private final int accountNumber;
     private String name;
     private final int age;
